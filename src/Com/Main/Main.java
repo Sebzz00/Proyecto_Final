@@ -8,6 +8,7 @@ public class Main {
     double donald;
     double jesus;
     double julian;
-    double orlando;
+    double orly;
+    int hola;
     }
 }
